@@ -11,7 +11,10 @@ Permite agregar nuevos elementos durante la ejecucion.
 Los datos iniciales se cargan a partir del archivo input.txt; "E" indica que se carga un equipo, "C" una ciudad, "R" una ruta y "P" un partido. 
 Para indicar el resto de los datos de cada uno, se hace en este formato:
 
-//E: Pais; DT; Grupo; Puntos; Goles a favor; Goles en contra $255.8
+//E: Pais; DT; Grupo; Puntos; Goles a favor; Goles en contra
+
 //P: Pais1; Pais2; Ronda; Goles1; Goles2; Ciudad
+
 //C: Ciudad; Superficie; Habitantes; esSede
+
 //R: Ciudad1; Ciudad2; Distancia
