@@ -1,4 +1,4 @@
-//El archivo debe estar en C:/Users/Admin/input.txt o cambiar la direccion de dirIn en Mundual2018
+//El archivo debe estar en C:/Users/Admin/input.txt o cambiar la direccion de dirIn en Mundial2018
 //E: Pais; DT; Grupo; Puntos; Goles a favor; Goles en contra $255.8
 //P: Pais1; Pais2; Ronda; Goles1; Goles2; Ciudad
 //C: Ciudad; Superficie; Habitantes; esSede
