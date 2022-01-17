@@ -21,6 +21,6 @@ Para indicar el resto de los datos de cada uno, se hace en este formato:
 
 ![image](https://user-images.githubusercontent.com/71310857/149806193-4948e5ab-f0f2-480a-a6c8-7d25ef312892.png)
 
-![image](https://user-images.githubusercontent.com/71310857/149806386-ad165af8-c999-4e8f-b51c-859ce31177db.png)
+![image](https://user-images.githubusercontent.com/71310857/149807507-50bc3797-8cbf-4731-8c77-73ea6dcf39a2.png)
 
-![image](https://user-images.githubusercontent.com/71310857/149806619-1f48862b-e9f6-4361-8fac-562b5dc71615.png)
+![image](https://user-images.githubusercontent.com/71310857/149807620-6fa7afc1-d295-484b-b2ab-cbc96a66f2c8.png)
