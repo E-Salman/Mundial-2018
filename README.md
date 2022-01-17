@@ -24,3 +24,6 @@ Para indicar el resto de los datos de cada uno, se hace en este formato:
 ![image](https://user-images.githubusercontent.com/71310857/149807507-50bc3797-8cbf-4731-8c77-73ea6dcf39a2.png)
 
 ![image](https://user-images.githubusercontent.com/71310857/149807620-6fa7afc1-d295-484b-b2ab-cbc96a66f2c8.png)
+
+Mostrar sistema ejemplo:
+![image](https://user-images.githubusercontent.com/71310857/149807841-013e1b5d-5f01-4712-94b4-77bb197c0df6.png)
